@@ -31,3 +31,5 @@ puesto .\n");
                                          p r i n t f ( " R E S :      % d \ n " ,      R E S ) ;
                                          r e t u r n      0 ;
         }
+
+        /JUAJUAJUA

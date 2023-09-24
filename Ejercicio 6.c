@@ -20,3 +20,5 @@ blanco      y      saltos      de      linea
                          p r i n t f ( " E l      c a r a c t e r      ’ % c ’      a p a r e c e      % d      v e c e s      e n      l a      c a d e n a . \ n " ,     c a r ,      r e s u l t a d o ) ;
                          r e t u r n      0 ;
         }
+        //JHJSKFDHJHGFD
+        //LKDFGHLGFLKHJGFHLK
