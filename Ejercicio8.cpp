@@ -26,7 +26,6 @@ int main()
             cout << "MSB y LSB: " << subcadena_tipo2 << endl;
             cout << "Sensor de temperatura ambiente - Data 301" << endl;
         }
-
         cout << "\n"
              << endl;
         cadena.erase(0, pos + subcadena.length());
@@ -34,3 +33,6 @@ int main()
     cout << cadena << endl;
     return 0;
 }
+
+        //Este comentario es nuevo, a ver si lo ve el Github
+        // denuevo pasa algo aca
